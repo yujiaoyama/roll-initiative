@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/roll-initiative/static/css/main.750630ab.css",
-    "main.js": "/roll-initiative/static/js/main.a0f268e1.js",
-    "static/js/787.2eef7eb9.chunk.js": "/roll-initiative/static/js/787.2eef7eb9.chunk.js",
-    "static/media/edelaszlo2.png": "/roll-initiative/static/media/edelaszlo2.0ab914d08bde1d2eeb27.png",
-    "index.html": "/roll-initiative/index.html",
-    "main.750630ab.css.map": "/roll-initiative/static/css/main.750630ab.css.map",
-    "main.a0f268e1.js.map": "/roll-initiative/static/js/main.a0f268e1.js.map",
-    "787.2eef7eb9.chunk.js.map": "/roll-initiative/static/js/787.2eef7eb9.chunk.js.map"
+    "main.css": "./static/css/main.750630ab.css",
+    "main.js": "./static/js/main.71ffd743.js",
+    "static/js/787.2eef7eb9.chunk.js": "./static/js/787.2eef7eb9.chunk.js",
+    "static/media/edelaszlo2.png": "./static/media/edelaszlo2.0ab914d08bde1d2eeb27.png",
+    "index.html": "./index.html",
+    "main.750630ab.css.map": "./static/css/main.750630ab.css.map",
+    "main.71ffd743.js.map": "./static/js/main.71ffd743.js.map",
+    "787.2eef7eb9.chunk.js.map": "./static/js/787.2eef7eb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.750630ab.css",
-    "static/js/main.a0f268e1.js"
+    "static/js/main.71ffd743.js"
   ]
 }
